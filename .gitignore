@@ -1,0 +1,10 @@
+*.iml
+*.ipr
+*.iws
+target/
+.ideaDataSources
+dataSources
+.idea/
+.classpath
+.project
+.settings/
